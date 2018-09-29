@@ -24,6 +24,12 @@ Data provided by kaggle.com [Avocado Prices](https://www.kaggle.com/neuromusic/a
 + [Avocado Prices](https://www.kaggle.com/neuromusic/avocado-prices)
 
 
+## Dataset properties
+
+ + 918 images for training
+ + 309 images for testing
+ + 9127 dates and prices for time series
+ 
 
 ## Built With
 
